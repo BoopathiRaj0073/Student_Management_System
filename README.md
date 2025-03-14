@@ -21,7 +21,6 @@ The **Student Management System** is a Spring Boot application that allows users
 
 ## Installation & Setup
 ### Prerequisites
-Ensure you have the following installed:
 - Java 17+
 - Maven
 - MySQL (or any database of your choice)
