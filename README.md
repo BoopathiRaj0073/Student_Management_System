@@ -72,5 +72,5 @@ This project is licensed under the MIT License.
 
 ### Author
 - **BOOPATHIRAJ M**
-- GitHub: [boopathiraj]((https://github.com/BoopathiRaj0073/Student_Management_System))
+- GitHub: [BoopathiRaj0073]((https://github.com/BoopathiRaj0073/Student_Management_System))
 
